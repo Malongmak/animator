@@ -4,7 +4,8 @@ Welcome to the **Animation App in Flutter Dart**! This project is designed to de
 
 ## Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
+- [Screenshots](![image](https://github.com/Malongmak/animator/assets/121355936/b4bfe87d-cfc3-43fd-9739-d633fb739cbf)
+)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
